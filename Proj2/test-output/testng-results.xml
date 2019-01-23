@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26" started-at="2019-01-15T20:05:23Z" finished-at="2019-01-15T20:05:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26" started-at="2019-01-15T20:05:23Z" finished-at="2019-01-15T20:05:23Z">
+      <class name="pkg1.TestNG_Grouping">
+        <test-method status="PASS" signature="Before_Suite()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="Before_Suite" is-config="true" duration-ms="8" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Suite -->
+        <test-method status="PASS" signature="TC1()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="TC1" duration-ms="16" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="Before_Method()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="Before_Method" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method status="PASS" signature="Before_Test()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="Before_Test" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Test -->
+        <test-method status="PASS" signature="Before_Class()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="Before_Class" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Class -->
+        <test-method status="PASS" signature="After_Method()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="After_Method" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Method -->
+        <test-method status="PASS" signature="After_Test()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="After_Test" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Test -->
+        <test-method status="PASS" signature="After_Class()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="After_Class" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Class -->
+        <test-method status="PASS" signature="After_Method()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="After_Method" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Method -->
+        <test-method status="PASS" signature="Before_Method()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="Before_Method" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="TC2" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="After_Suite()[pri:0, instance:pkg1.TestNG_Grouping@1a968a59]" name="After_Suite" is-config="true" duration-ms="0" started-at="2019-01-16T01:35:23Z" finished-at="2019-01-16T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Suite -->
+      </class> <!-- pkg1.TestNG_Grouping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
